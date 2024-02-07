@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> blockquote
-> <hr>
-> -css
-> <javascript>alert("Bruno")</javascript>
+
+`code`
